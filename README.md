@@ -1,3 +1,27 @@
+<div align="center">
+
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,26,16,6,0&height=220&section=header&text=Security%20Audit%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%94%92%20Multi-Phase%20Agent%20Security%20Audits%20with%20Machine-Readable%20Findings&descAlignY=62&descAlign=50" width="100%" alt="Security Audit Skill 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/security-audit-skill">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="95" height="95" alt="Security Audit Skill 3D Icon" />
+  </a>
+
+  <h1>Security Audit Skill</h1>
+  <p><b>🔒 Multi-Phase Agent Security Audits with Machine-Readable Findings</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,git,python,markdown&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 # security-audit
 
 A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting.
@@ -104,3 +128,9 @@ Questions, feedback, or comparing notes on AI-driven security tooling: security-
 ## License
 
 MIT -- see [LICENSE](LICENSE).
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,26,16,6,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
+</div>
