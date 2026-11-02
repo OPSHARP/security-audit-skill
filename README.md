@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,26,16,6,0&height=220&section=header&text=Security%20Audit%20Skill&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%94%92%20Multi-Phase%20Agent%20Security%20Audits%20with%20Machine-Readable%20Findings&descAlignY=62&descAlign=50" width="100%" alt="Security Audit Skill 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/security-audit-skill">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="95" height="95" alt="Security Audit Skill 3D Icon" />
@@ -129,8 +126,4 @@ Questions, feedback, or comparing notes on AI-driven security tooling: security-
 
 MIT -- see [LICENSE](LICENSE).
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=34,26,16,6,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
